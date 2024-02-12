@@ -1,4 +1,7 @@
 package com.boneless.platformer.entitys;
 
-public class Entity {
+import javax.swing.*;
+
+public class Entity extends JPanel {
+
 }

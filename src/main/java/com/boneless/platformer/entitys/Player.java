@@ -1,4 +1,7 @@
 package com.boneless.platformer.entitys;
 
-public class Player {
+import javax.swing.*;
+
+public class Player extends JPanel {
+
 }
